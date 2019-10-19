@@ -1,3 +1,4 @@
 "use strict";
-let x = 2;
-let y = 3;
+let x = 1;
+let y = 2;
+let z = 3;
